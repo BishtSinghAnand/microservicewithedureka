@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.abisht.ratingservice.modul.Rate;
+import io.abisht.ratingservice.models.Rate;
 
 @RestController
 public class RatingController {

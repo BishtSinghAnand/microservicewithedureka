@@ -1,4 +1,4 @@
-package io.abisht.ratingservice.modul;
+package io.abisht.moviecatalogservice.models;
 
 public class Rate {
 	private String movieId;

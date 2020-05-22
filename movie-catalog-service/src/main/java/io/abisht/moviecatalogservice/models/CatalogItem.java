@@ -1,4 +1,4 @@
-package io.abisht.moviecatalogservice.modul;
+package io.abisht.moviecatalogservice.models;
 
 public class CatalogItem {
 	

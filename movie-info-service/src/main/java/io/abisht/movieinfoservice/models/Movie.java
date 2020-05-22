@@ -1,4 +1,4 @@
-package io.abisht.movieinfoservice.modul;
+package io.abisht.movieinfoservice.models;
 
 public class Movie {
 	private String name;
